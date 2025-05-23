@@ -71,4 +71,4 @@ name=Alice
 
 ## License
 
-MIT License — Educational use only.
+This project is part of CS 3357A - Computer Networks I at Western University. For academic use only.
